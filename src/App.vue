@@ -8,7 +8,7 @@
               <a href="#">
                 <img
                   class="w-10"
-                  src="https://theschool.ai/wp-content/uploads/2018/09/Black_Brain_Icon.png"
+                  src="./assets/logo.png"
                   alt="Logo"
                 >
               </a>
