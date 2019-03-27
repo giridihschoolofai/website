@@ -88,7 +88,7 @@
         </div>
         <div class="flex flex-col-reverse lg:flex-row-reverse mb-20">
           <div class="lg:w-3/5 px-4 py-2 leading-normal">
-            <h2 class="mb-2">Hackatons</h2>
+            <h2 class="mb-2">Hackathons</h2>
             <p>We believe that artificial intelligence can help improve the way of living and facilitate our daily tasks. That's why we offer fellowships collaborating with big companies to participate in interesting projects where to use artificial intelligence.</p>
           </div>
           <div class="lg:w-2/5 text-center mb-6 lg:mb-0">
